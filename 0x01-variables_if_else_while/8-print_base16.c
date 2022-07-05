@@ -2,7 +2,7 @@
 
 /**
 * main - Entry point
-* Description: printing base 16  
+* Description: printing base 16
 * Return: Always 0 (Success)
 */
 
