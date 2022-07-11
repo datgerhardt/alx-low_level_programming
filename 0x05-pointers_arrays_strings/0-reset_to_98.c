@@ -1,6 +1,6 @@
 /**
- * reset_to_98(int *n) - n point 
- *
+ * reset_to_98 - n point
+ * @n: input
  * Return: Null
  */
 
