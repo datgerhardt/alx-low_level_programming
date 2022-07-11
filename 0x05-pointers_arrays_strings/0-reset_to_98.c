@@ -1,7 +1,7 @@
 /**
- * reset_to_98 - check the code
+ * reset_to_98(int *n) - n point 
  *
- * Return: Null 
+ * Return: Null
  */
 
 void reset_to_98(int *n)
