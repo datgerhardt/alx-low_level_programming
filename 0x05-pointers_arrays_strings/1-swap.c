@@ -1,7 +1,13 @@
 /**
- * swap_int(*a, *b) - check the code
- *
+ * swap_int - swap integer
+ * @a: input
+ * @b: input
  * Return: Null
  */
 
-swap_int(&a, &b)
+void swap_int(int *a, int *b)
+{
+	int *c = (int *)a;
+	*(int *)a = *(int *)b;
+	*(int *)b = *(int *)c;
+}
